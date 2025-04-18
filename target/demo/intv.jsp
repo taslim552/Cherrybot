@@ -642,7 +642,7 @@ async function submitAnswer() {
                     document.getElementById("responseContainer").innerHTML = `
                         <p><strong>Sentiment:</strong> Positive: ${result.sentiment.pos}, Negative: ${result.sentiment.neg}, Neutral: ${result.sentiment.neu}</p>
                         <p><strong>Relevance Score:</strong> ${result.score.toFixed(2)}</p>
-                        <p><strong>Follow-up Question:</strong> ${result.followup}</p>
+                        
                     `;
                 } else {
                     document.getElementById("responseContainer").innerHTML = `
