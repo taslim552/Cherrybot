@@ -83,10 +83,4 @@ The frontend communicates with the backend through the following endpoints:
 - Integrating AI models for more personalized feedback and dynamic follow-up questions.
 - Incorporate additional metrics like confidence level, time taken to answer, etc.
 
-## License
 
-This project is licensed under the MIT License.
-
----
-
-Feel free to customize any details as needed!
